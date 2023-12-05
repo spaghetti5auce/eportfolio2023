@@ -50,7 +50,7 @@ h6 {
 font-weight: 300;
     letter-spacing: 0.4px;
     font-family: "Open Sans", Sans-serif;
-    color: #012030;
+    color: #9D30C1;
 }
 
 p {
@@ -59,7 +59,7 @@ p {
     font-weight: 300;
 	line-height: 23px;
     letter-spacing: 0.2px;
-    color: #13678A;
+    color: #FFC9DE7;
 }
 
 a:hover, a:focus, a:active, a.active {
@@ -261,7 +261,7 @@ header .intro-text .intro-heading {
 font-size: 14px;
     font-weight: 300;
     line-height: 22px;
-    color: #13678A;
+    color: #FFC9E7;
 }
 
 .ot-circle {
@@ -460,7 +460,7 @@ figure.effect-bubba:hover p {
 --------------------*/
 
 .dark-bg {
-    background: #9AEBA3;
+    background: #2F003F;
     color: #fff;
 }
 
@@ -473,7 +473,7 @@ figure.effect-bubba:hover p {
 }
 
 .light-bg {
-	background-color: #DAFDBA;
+	background-color: #5C0F76;
 }
 
 .overlay-dark:before, .overlay-light:before {
